@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvcblobstorage", "mvcblobstorage.csproj", "{F494F35A-D531-4A45-A154-F60E358976D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F494F35A-D531-4A45-A154-F60E358976D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F494F35A-D531-4A45-A154-F60E358976D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F494F35A-D531-4A45-A154-F60E358976D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F494F35A-D531-4A45-A154-F60E358976D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43B7E062-2C90-4249-8490-13215B56A2CE}
+	EndGlobalSection
+EndGlobal
